@@ -3,6 +3,16 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+.confiavel{
+  text-align: right;
+  color: green;
+
+}
+.nconfiavel{
+  text-align: right;
+  color: red;
+  
+}
 .bg-white{
   margin-top: 130px;
   background-color: white;
@@ -19,7 +29,7 @@ body{
   color: #6f83b9;
 }
 .box-agencia{
-  margin: 10px;
+  margin: 25px;
     height: 100%;
     display: flex;
     box-shadow: 1px 1px 6px black;  

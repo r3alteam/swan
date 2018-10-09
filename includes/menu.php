@@ -27,7 +27,7 @@
             </ul>
             
         </div>
-        <div class="col-lg-2 hvr-back-pulse hvr-icon-wobble-horizontal menu-login-2" style = "padding:0px">
+        <div class="col-lg-2 hvr-icon-wobble-horizontal menu-login-2" style = "padding:0px">
             <a href="login.php"><h4 class = "menu-login ">Login&nbsp;<i class="fas fa-sign-in-alt hvr-icon"></i></h4></a>
         </div>
     </div>

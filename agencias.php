@@ -17,23 +17,63 @@
     <div class="col-lg-12">
     <div class="col-lg-2"></div>
     <div class="col-lg-8 bg-white">
+    <div class="col-lg-12"><form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Pesquisar..">
+        </div>
+      </form></div>
+        <div class="col-lg-12">
         <div class= "box-agencia">
             <div class="col-lg-3">
-                <img src="" alt="">
+                <img src="img/img3.png" alt=""style="width:100%">
             </div>
             <div class = "col-lg-9">
-                <h3>Nome da Agencia</h3>
-                <p>A FORUM MODEL Agência de Modelos se destaca com seu diferencial no mercado, pois possui um casting com perfis atualizados e está sempre em busca de novos talentos para coloca-los no mercado. Selecionamos os mais diversos perfis para encaminha-los para comerciais, desfiles, editoriais, propagandas e catálogos.
+                <div class="col-lg-6"><h3>Nome da Agencia</h3></div>
+                <div class="col-lg-6"><h3 class="confiavel">CONFIAVEL</h3></div>
+               <div class="col-lg-12">
+               <p>A FORUM MODEL Agência de Modelos se destaca com seu diferencial no mercado, pois possui um casting com perfis atualizados e está sempre em busca de novos talentos para coloca-los no mercado. Selecionamos os mais diversos perfis para encaminha-los para comerciais, desfiles, editoriais, propagandas e catálogos.
 Nossos modelos são cadastrados em toda São Paulo (Grande São Paulo e Interior).
 Somos especializados em diversos tipos de modelos , modelos comerciais, modelos para Editorial, modelos passarela, Modelos femininos, Modelos masculinos, modelos plus size, modelos Adolescentes, modelos Bebês e modelos Infantil</p>
-                <p>Rua Teixeira de Melo, 294 - Tatuapé, São Paulo - SP, Brasil  r</p>
+                <p>Rua Teixeira de Melo, 294 - Tatuapé, São Paulo - SP, Brasil</p>
+                </div>
             </div>
+        </div>
+        <div class= "box-agencia">
+            <div class="col-lg-3">
+                <img src="img/img3.png" alt=""style="width:100%">
+            </div>
+            <div class = "col-lg-9">
+                <div class="col-lg-6"><h3>Nome da Agencia</h3></div>
+                <div class="col-lg-6"><h3 class="nconfiavel">NÃO CONFIAVEL</h3></div>
+               <div class="col-lg-12">
+               <p>A FORUM MODEL Agência de Modelos se destaca com seu diferencial no mercado, pois possui um casting com perfis atualizados e está sempre em busca de novos talentos para coloca-los no mercado. Selecionamos os mais diversos perfis para encaminha-los para comerciais, desfiles, editoriais, propagandas e catálogos.
+Nossos modelos são cadastrados em toda São Paulo (Grande São Paulo e Interior).
+Somos especializados em diversos tipos de modelos , modelos comerciais, modelos para Editorial, modelos passarela, Modelos femininos, Modelos masculinos, modelos plus size, modelos Adolescentes, modelos Bebês e modelos Infantil</p>
+                <p>Rua Teixeira de Melo, 294 - Tatuapé, São Paulo - SP, Brasil</p>
+                </div>
+            </div>
+        </div>
+        <div class= "box-agencia">
+            <div class="col-lg-3">
+                <img src="img/img2.jpg" alt="" style="width:100%">
+            </div>
+            <div class = "col-lg-9">
+                <div class="col-lg-6"><h3>Nome da Agencia</h3></div>
+                <div class="col-lg-6"><h3 class="nconfiavel">NÃO CONFIAVEL</h3></div>
+               <div class="col-lg-12">
+               <p>A FORUM MODEL Agência de Modelos se destaca com seu diferencial no mercado, pois possui um casting com perfis atualizados e está sempre em busca de novos talentos para coloca-los no mercado. Selecionamos os mais diversos perfis para encaminha-los para comerciais, desfiles, editoriais, propagandas e catálogos.
+Nossos modelos são cadastrados em toda São Paulo (Grande São Paulo e Interior).
+Somos especializados em diversos tipos de modelos , modelos comerciais, modelos para Editorial, modelos passarela, Modelos femininos, Modelos masculinos, modelos plus size, modelos Adolescentes, modelos Bebês e modelos Infantil</p>
+                <p>Rua Teixeira de Melo, 294 - Tatuapé, São Paulo - SP, Brasil</p>
+                </div>
+            </div>
+        </div>
         </div>
     </div>
     <div class="col-lg-2"></div>
 
     </div>
     
-    <!-- <?php include ("includes/footer.php")?> -->
+    <?php include ("includes/footer.php")?>
 </body>
 </html>
